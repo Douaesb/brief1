@@ -361,7 +361,6 @@ header.sticky{
 .imgc{
 	margin-top: 100px;
 	margin-left: 150px;
-	size: 0;
 }
 .news-text h2{
 	font-size: var(--h2-font);
